@@ -16,7 +16,7 @@ export default{
 
 </template>
 
-<style>
+<style scoped>
 h2{
     color: green;
     text-decoration: overline;

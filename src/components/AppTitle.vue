@@ -16,7 +16,7 @@ export default {
 
 </template>
 
-<style>
+<style scoped>
 h1{
   color: blue;
   text-decoration:underline;
